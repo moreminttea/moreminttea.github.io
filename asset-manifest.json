@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.3e0197fd.css",
-    "main.js": "./static/js/main.1d152b81.js",
+    "main.js": "./static/js/main.51ab2f6f.js",
     "static/js/787.28cb0dcd.chunk.js": "./static/js/787.28cb0dcd.chunk.js",
     "static/media/oil_paint8.jpg": "./static/media/oil_paint8.3df48ff8dc277c42f5a8.jpg",
     "static/media/oil_paint9.jpg": "./static/media/oil_paint9.ca261154cc9fcb518205.jpg",
@@ -18,10 +18,8 @@
     "static/media/persona.png": "./static/media/persona.0930e36923eda4731918.png",
     "static/media/apac_poster1.png": "./static/media/apac_poster1.48c49b5f20859eaa70d6.png",
     "static/media/header.png": "./static/media/header.b67892bf8a51ef74ba7c.png",
-    "static/media/diasomnia.png": "./static/media/diasomnia.2129fe21ac83f1e79d74.png",
     "static/media/splash.png": "./static/media/splash.e4e6b5296fa7a03a829f.png",
     "static/media/heartslabyul.png": "./static/media/heartslabyul.8bb4449594e2c9ceb248.png",
-    "static/media/savanaclaw.png": "./static/media/savanaclaw.cb73d068f3ee23b6257a.png",
     "static/media/comp3.png": "./static/media/comp3.e00a0cc6225222d1bf4c.png",
     "static/media/comp4.png": "./static/media/comp4.d432cbc1214d17683ac8.png",
     "static/media/comp5.png": "./static/media/comp5.8e2966e0cfe140e50070.png",
@@ -52,11 +50,11 @@
     "static/media/arrow.svg": "./static/media/arrow.918b119cac31ec8f9fac9431f2f6f10c.svg",
     "index.html": "./index.html",
     "main.3e0197fd.css.map": "./static/css/main.3e0197fd.css.map",
-    "main.1d152b81.js.map": "./static/js/main.1d152b81.js.map",
+    "main.51ab2f6f.js.map": "./static/js/main.51ab2f6f.js.map",
     "787.28cb0dcd.chunk.js.map": "./static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3e0197fd.css",
-    "static/js/main.1d152b81.js"
+    "static/js/main.51ab2f6f.js"
   ]
 }
