@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.5cc632ab.css",
-    "main.js": "./static/js/main.df9a6db3.js",
+    "main.css": "./static/css/main.78bb13fd.css",
+    "main.js": "./static/js/main.1ebbb6c8.js",
     "static/js/787.28cb0dcd.chunk.js": "./static/js/787.28cb0dcd.chunk.js",
     "static/media/oil_paint8.jpg": "./static/media/oil_paint8.3df48ff8dc277c42f5a8.jpg",
     "static/media/oil_paint9.jpg": "./static/media/oil_paint9.ca261154cc9fcb518205.jpg",
@@ -14,6 +14,7 @@
     "static/media/oil_paint3.jpg": "./static/media/oil_paint3.a506dc5f9b5064d547ae.jpg",
     "static/media/samurai_helmet.jpg": "./static/media/samurai_helmet.495ede790588dab2fda8.jpg",
     "static/media/genshin_chest.jpg": "./static/media/genshin_chest.0922ddafe20cb2cc20d6.jpg",
+    "static/media/bottom_graphic.svg": "./static/media/bottom_graphic.670364b10113302f942f152cb1eb1d87.svg",
     "static/media/speaker.jpg": "./static/media/speaker.9894a57ca290b239d1db.jpg",
     "static/media/persona.png": "./static/media/persona.0930e36923eda4731918.png",
     "static/media/apac_poster1.png": "./static/media/apac_poster1.48c49b5f20859eaa70d6.png",
@@ -37,7 +38,6 @@
     "static/media/logo.svg": "./static/media/logo.8490680bc5dfa048cdee94d3d2e6bf4b.svg",
     "static/media/survey4.png": "./static/media/survey4.09a3285232684565ae1e.png",
     "static/media/c2wSC1.png": "./static/media/c2wSC1.f4125d749b0704038d70.png",
-    "static/media/bottom_graphic.png": "./static/media/bottom_graphic.9a37174880b04ec16455.png",
     "static/media/april.jpg": "./static/media/april.5c0bcc5c9cd487221fd3.jpg",
     "static/media/march.jpg": "./static/media/march.989a9119ea83f14dbf57.jpg",
     "static/media/2020.jpg": "./static/media/2020.9acf68275d01ca0c93c3.jpg",
@@ -49,12 +49,12 @@
     "static/media/survey2.png": "./static/media/survey2.82017a0e35e0584bb0d8.png",
     "static/media/arrow.svg": "./static/media/arrow.918b119cac31ec8f9fac9431f2f6f10c.svg",
     "index.html": "./index.html",
-    "main.5cc632ab.css.map": "./static/css/main.5cc632ab.css.map",
-    "main.df9a6db3.js.map": "./static/js/main.df9a6db3.js.map",
+    "main.78bb13fd.css.map": "./static/css/main.78bb13fd.css.map",
+    "main.1ebbb6c8.js.map": "./static/js/main.1ebbb6c8.js.map",
     "787.28cb0dcd.chunk.js.map": "./static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5cc632ab.css",
-    "static/js/main.df9a6db3.js"
+    "static/css/main.78bb13fd.css",
+    "static/js/main.1ebbb6c8.js"
   ]
 }
