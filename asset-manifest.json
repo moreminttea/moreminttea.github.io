@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.690bfe74.css",
-    "main.js": "./static/js/main.c2bfcd19.js",
+    "main.css": "./static/css/main.842e0f0c.css",
+    "main.js": "./static/js/main.f5550be0.js",
     "static/js/787.28cb0dcd.chunk.js": "./static/js/787.28cb0dcd.chunk.js",
     "static/media/toberukara.png": "./static/media/toberukara.cddc0fe5e5cd25170797.png",
     "static/media/gradation.png": "./static/media/gradation.12047829880b2ee5bfe2.png",
@@ -30,7 +30,6 @@
     "static/media/heartslabyul.png": "./static/media/heartslabyul.8bb4449594e2c9ceb248.png",
     "static/media/sketch.svg": "./static/media/sketch.a645390d4546a0507b62b1cef8e6d1d0.svg",
     "static/media/internship.svg": "./static/media/internship.a3d4dfd900051e7ffe44d173b1490f8f.svg",
-    "static/media/JO1.png": "./static/media/JO1.3fb890a7df141b5ea20e.png",
     "static/media/before3.svg": "./static/media/before3.5d1e5c5c68601b5efa4c8465a576a81b.svg",
     "static/media/hem.svg": "./static/media/hem.973a23a9402fd86fb17a7fb429fdd361.svg",
     "static/media/c2w.svg": "./static/media/c2w.3cecf561afa13dc0b5b45aa1e0d88794.svg",
@@ -63,14 +62,13 @@
     "static/media/intern_search2.svg": "./static/media/intern_search2.ad9aed22b7ed519269ee467f79a31845.svg",
     "static/media/about.png": "./static/media/about.b495a1dcad60970a7018.png",
     "static/media/arrow.svg": "./static/media/arrow.918b119cac31ec8f9fac9431f2f6f10c.svg",
-    "static/media/arrow_r.svg": "./static/media/arrow_r.ce6ac768794a6d9640b7a8f53e7b705f.svg",
     "index.html": "./index.html",
-    "main.690bfe74.css.map": "./static/css/main.690bfe74.css.map",
-    "main.c2bfcd19.js.map": "./static/js/main.c2bfcd19.js.map",
+    "main.842e0f0c.css.map": "./static/css/main.842e0f0c.css.map",
+    "main.f5550be0.js.map": "./static/js/main.f5550be0.js.map",
     "787.28cb0dcd.chunk.js.map": "./static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.690bfe74.css",
-    "static/js/main.c2bfcd19.js"
+    "static/css/main.842e0f0c.css",
+    "static/js/main.f5550be0.js"
   ]
 }
